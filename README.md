@@ -28,11 +28,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page desenvolvida para aprendizado próprio:
 
-Live Preview: https://souzagabriel26.github.io/Disney-plus-Redesign/
+Live Preview: https://souzagabriel26.github.io/Disney-plus-Redesign/ 
 
 ## 🎨 Inspiração:
 
 Figma: https://www.figma.com/file/WVJSx9QoOY9aT93qoqYbja/Disney%2B-Streaming-Redesign-(Community)
+
+Youtube : https://www.youtube.com/watch?v=oqR81c4we2M
 
 ## :memo: Licença
 
